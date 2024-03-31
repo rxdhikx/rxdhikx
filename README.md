@@ -5,11 +5,11 @@
 - <b> Data Analysis on 3 Disease Interconnections - Heart, Diabetes and Cancer </b>
   - [Click Here to view the Website that explains the entire project!](https://sites.google.com/sdsu.edu/healthdatasynergy/home)
 - <b> Sentiment Analysis on Covid Tweets </b>
-  - [Follow the entire report and access the jupyter notebook used to derive insights from Sentiments present during Covid times.](https://github.com/rxdhikx/Sentiment-Analysis-through-Tweets-during-Covid)
+  - [Research & Analysis Report + Jupyter notebook](https://github.com/rxdhikx/Sentiment-Analysis-through-Tweets-during-Covid)
 - <b> Tableau - AirBnB Price Analysis </b>
   - [Tableau Public Dashboard](https://public.tableau.com/app/profile/radhika.ravindra/viz/AirBNBPriceAnalysis_17117408930760/Dashboard1)
 - <b> Video-Based Dynamic Human Authentication System</b>
-  - [Full Stack Code available here](https://github.com/rxdhikx/Video-Based-Dynamic-Human-Authentication-System)
+  - [Full Stack Code](https://github.com/rxdhikx/Video-Based-Dynamic-Human-Authentication-System)
 
 
 <h2>📺 Ongoing Projects: </h2>
