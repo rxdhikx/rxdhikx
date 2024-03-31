@@ -35,7 +35,7 @@
  - Analysis on different types of hallucinations with LLM-assessment metrics, machine, human and composite metrics.
 
 
-<h2> 🤳 Connect with me</h2>
+<h3> 🤳 Connect with me on Linkedin! </h3>
 
 [<img align="left" alt="Radhika Ravindra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
