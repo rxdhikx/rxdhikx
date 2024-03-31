@@ -1,4 +1,4 @@
-<h1>Howdy, This is Radhika! <br/><a href="https://github.com/rxdhikx"> Software </a>, <a href="https://www.linkedin.com/in/radhika-ravindra/"> and Data Enthusiast</a>
+<h1>Howdy, This is Radhika! <br/><a href="https://github.com/rxdhikx"> Software </a><a href="https://www.linkedin.com/in/radhika-ravindra/"> and Data Enthusiast</a>
 
 <h2>👨‍💻 Data Projects:</h2>
 
@@ -24,7 +24,7 @@
 <b>Pixel to Plate: Recipe Generation Using Image Detection </b> <br>
 [Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project)
 
-<h3> Tech: Machine Learning, Deep Learning, Neural Networks, Computer Vision, App Development </h3>
+<h4> Tech: Machine Learning, Deep Learning, Neural Networks, Computer Vision, App Development </h4>
 
 <h4> Project Idea: </h4>
 
@@ -61,7 +61,7 @@ Some of the courses I have undertaken are -
  - Enterprise Database Management (SQL)
  - Computational Corpus Linguistics (NLP Techniques)
  - Machine Learning Engineering (Classification, Regression, Computer Vision, Deep Learning, SVMs)
- - Research (Large Language Models - Llama, Smaug, Momo) 
+ - Research (Large Language Models - Llama, Smaug, Momo)
  - Big Data Analytical Platforms (Tableau, arcGIS, AWS, Git, Hadoop, Apache Spark)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
