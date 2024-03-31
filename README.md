@@ -14,7 +14,8 @@
 
 <h2>📺 Ongoing Projects: </h2>
 
-<b>Pixel to Plate: Recipe Generation Using Image Detection</b>[Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project)
+<b>Pixel to Plate: Recipe Generation Using Image Detection</b> <br>
+[Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project)
 
 <h3> Project Idea: </h3>
 
@@ -25,7 +26,9 @@
 - Develop a web application that provides an interactive and visually appealing recipe recommendation system.
 
 <h2>📺 Ongoing Research: </h2>
-<b> Hallucination Detection in Large Language Models </b> [Click Here to follow the progress!](https://github.com/rxdhikx/Large-Language-Model)
+<b>Hallucination Detection in Large Language Models</b> <br>
+[Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project](https://github.com/rxdhikx/Large-Language-Model)
+
 
 <h3> Objectives: </h3>
  - Collection of relevant datasets from various sources to work on more than 200,000 samples.
