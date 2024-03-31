@@ -1,4 +1,4 @@
-<h1>Howdy, This is Radhika! <br/><a href="https://github.com/rxdhikx">Software Engineer </a>, <a href="https://www.linkedin.com/in/radhika-ravindra/"> and Data Enthusiast</a>
+<h1>Howdy, This is Radhika! <br/><a href="https://github.com/rxdhikx"> Software </a>, <a href="https://www.linkedin.com/in/radhika-ravindra/"> and Data Enthusiast</a>
 
 <h2>👨‍💻 Data Projects:</h2>
 
