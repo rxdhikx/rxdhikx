@@ -6,7 +6,7 @@
   - [Click Here to view the Website that explains the entire project!](https://sites.google.com/sdsu.edu/healthdatasynergy/home)
 - <b> Sentiment Analysis on Covid Tweets </b>
   - [Research & Analysis Report + Jupyter notebook](https://github.com/rxdhikx/Sentiment-Analysis-through-Tweets-during-Covid)
-- <b> Tableau - Air BnB Price Analysis </b>
+- <b> Tableau - Airbnb Price Analysis </b>
   - [Tableau Public Dashboard](https://public.tableau.com/app/profile/radhika.ravindra/viz/AirBNBPriceAnalysis_17117408930760/Dashboard1)
 
 <h2>💻 Software Dev Projects:</h2>
