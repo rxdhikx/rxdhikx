@@ -9,7 +9,7 @@
 - <b> Tableau - Air BnB Price Analysis </b>
   - [Tableau Public Dashboard](https://public.tableau.com/app/profile/radhika.ravindra/viz/AirBNBPriceAnalysis_17117408930760/Dashboard1)
 
-<h2> Software Dev Projects:</h2>
+<h2>💻 Software Dev Projects:</h2>
 
 - <b> Video-Based Dynamic Human Authentication System</b>
   - [Full Stack Code](https://github.com/rxdhikx/Video-Based-Dynamic-Human-Authentication-System)
@@ -48,12 +48,6 @@
  - Analysis on different types of hallucinations with LLM-assessment metrics, machine, human and composite metrics.
 
 
-<h3> 🤳 Connect with me on Linkedin! </h3>
-
-[<img align="left" alt="Radhika Ravindra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/radhika-ravindra
-
 <h2> About Me!</h2>
 🌱 I’m currently pursuing my Master's in Big Data Analytics at San Diego State University, and expect to graduate in May 2025. <br>
 
@@ -63,6 +57,9 @@ Some of the courses I have undertaken are -
  - Machine Learning Engineering (Classification, Regression, Computer Vision, Deep Learning, SVMs)
  - Research (Large Language Models - Llama, Smaug, Momo)
  - Big Data Analytical Platforms (Tableau, arcGIS, AWS, Git, Hadoop, Apache Spark)
+
+<h3> 🤳 Connect with me on <a href="https://www.linkedin.com/in/radhika-ravindra"> LinkedIn! </a> </h3>
+
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
