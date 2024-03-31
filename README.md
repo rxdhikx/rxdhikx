@@ -8,8 +8,14 @@
   - [Research & Analysis Report + Jupyter notebook](https://github.com/rxdhikx/Sentiment-Analysis-through-Tweets-during-Covid)
 - <b> Tableau - Air BnB Price Analysis </b>
   - [Tableau Public Dashboard](https://public.tableau.com/app/profile/radhika.ravindra/viz/AirBNBPriceAnalysis_17117408930760/Dashboard1)
+
+<h2> Software Dev Projects:</h2>
 - <b> Video-Based Dynamic Human Authentication System</b>
   - [Full Stack Code](https://github.com/rxdhikx/Video-Based-Dynamic-Human-Authentication-System)
+- <b> Library Management System</b>
+  - [A Database and Tkinter-based Project](https://github.com/rxdhikx/Library-Management-System)
+- <b> Website Landing Page</b>
+  - [Landing Page using HTML, CSS and Bootstrap](https://github.com/rxdhikx/Website-Landing-Page)
 
 
 <h2>📺 Ongoing Projects: </h2>
@@ -27,7 +33,7 @@
 - Implement a deep learning model to recommend recipes based on user preferences and available ingredients.
 - Develop a web application that provides an interactive and visually appealing recipe recommendation system.
 
-<h2>📺 Ongoing Research: </h2>
+<h2>🔭 Ongoing Research: </h2>
 
 <b>Hallucination Detection in Large Language Models</b> <br>
 [Click Here to follow the progress!](https://github.com/rxdhikx/Large-Language-Model)
