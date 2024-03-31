@@ -9,7 +9,7 @@
 - <b> Tableau - AirBnB Price Analysis </b>
   - [Tableau Public Dashboard](https://public.tableau.com/app/profile/radhika.ravindra/viz/AirBNBPriceAnalysis_17117408930760/Dashboard1)
 - <b> Video-Based Dynamic Human Authentication System</b>
-  - [Full Stack Code available here] (https://github.com/rxdhikx/Video-Based-Dynamic-Human-Authentication-System)
+  - [Full Stack Code available here](https://github.com/rxdhikx/Video-Based-Dynamic-Human-Authentication-System)
 
 
 <h2>📺 Ongoing Projects: </h2>
