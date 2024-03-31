@@ -18,9 +18,9 @@
 - Implement a deep learning model to recommend recipes based on user preferences and available ingredients.
 - Develop a web application that provides an interactive and visually appealing recipe recommendation system.
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Radhika Ravindra | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/radhika-ravindra
 
