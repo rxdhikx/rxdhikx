@@ -14,10 +14,12 @@
 
 <h2>📺 Ongoing Projects: </h2>
 
-<b>Pixel to Plate: Recipe Generation Using Image Detection</b> <br>
+<b>Pixel to Plate: Recipe Generation Using Image Detection </b> <br>
 [Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project)
 
-<h3> Project Idea: </h3>
+<h3> Tech: Machine Learning, Deep Learning, Neural Networks, Computer Vision, App Development </h3>
+
+<h4> Project Idea: </h4>
 
 - Scrape recipes and cooking-related content.
 - Apply NLP to understand and categorize recipes.
@@ -30,6 +32,7 @@
 <b>Hallucination Detection in Large Language Models</b> <br>
 [Click Here to follow the progress!](https://github.com/rxdhikx/Large-Language-Model)
 
+<h4> Tech: LLMs, Transformers, Pytorch, NLP, Remote Server, Virtual Environment, Git </h4>
 
 <h3> Objectives: </h3>
  - Collection of relevant datasets from various sources to work on more than 200,000 samples.
