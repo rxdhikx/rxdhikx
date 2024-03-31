@@ -25,8 +25,7 @@
 - Develop a web application that provides an interactive and visually appealing recipe recommendation system.
 
 <h2>📺 Ongoing Research: </h2>
-<b> Hallucination Detection in Large Language Models </b> <br>
-[Click Here to follow the progress](https://github.com/rxdhikx/Large-Language-Model)
+<b> Hallucination Detection in Large Language Models </b> <br> [Click Here to follow the progress!](https://github.com/rxdhikx/Large-Language-Model)
 
 <h3> Objectives: </h3>
  - Collection of relevant datasets from various sources to work on more than 200,000 samples.
