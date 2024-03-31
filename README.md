@@ -14,7 +14,7 @@
 
 <h2>📺 Ongoing Projects: </h2>
 
-<b> Pixel to Plate: Recipe Generation Using Image Detection </b> [Click Here to follow the progress]([(https://github.com/saitejasri1/Shared-ML-project))
+<b> Pixel to Plate: Recipe Generation Using Image Detection </b> [Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project)
 
 <h3> Project Idea: </h3>
 
@@ -23,6 +23,17 @@
 - Utilize OpenCV for image analysis of ingredients and finished dishes.
 - Implement a deep learning model to recommend recipes based on user preferences and available ingredients.
 - Develop a web application that provides an interactive and visually appealing recipe recommendation system.
+
+<h2>📺 Ongoing Research: </h2>
+<b> Hallucination Detection in Large Language Models </b> <br>
+[Click Here to follow the progress](https://github.com/rxdhikx/Large-Language-Model)
+
+<h3> Objectives: </h3>
+ - Collection of relevant datasets from various sources to work on more than 200,000 samples.
+ - Construction of a robust discriminator to detect hallucinations in LLM's generated response, by reviewing the performance of different PLM's and training it, to minimize the cross-entropy loss function.
+ - Utilization of transformers, pytorch and accelerate using 72b training models like Llama2 and MoMo - which is #3 on the open LLM leaderboard. (as of 02/20/2024)
+ - Analysis on different types of hallucinations with LLM-assessment metrics, machine, human and composite metrics.
+
 
 <h2> 🤳 Connect with me</h2>
 
