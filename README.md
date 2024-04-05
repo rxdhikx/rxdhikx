@@ -59,6 +59,7 @@ Some of the courses I have undertaken are -
  - Big Data Analytical Platforms (Tableau, arcGIS, AWS, Git, Hadoop, Apache Spark)
 
 <h3> 🤳 Connect with me on <a href="https://www.linkedin.com/in/radhika-ravindra"> LinkedIn! </a> </h3>
+<h3>💬 Have any questions? Book an appointment <a href ="https://topmate.io/radhika_ravindra">Here!</a></h3>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
