@@ -1,7 +1,7 @@
 <img align="right" src="https://www.github.com/rxdhikx" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=50&color=9391F7&background=F97BFF51&lines=Howdy!+👋;+This is +Radhika.;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Quicksand&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&pause=50&color=9391F7&background=F97BFF51&lines=Howdy!+👋;+This is +Radhika;" />
 </h1>
 <h3 align = "center">
     A Software and Data Enthusiast.
