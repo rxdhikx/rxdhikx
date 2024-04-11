@@ -24,24 +24,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<h2>👨‍💻 Data Projects:</h2>
-
-- <b> Data Analysis on 3 Disease Interconnections - Heart, Diabetes and Cancer </b>
-  - [Click Here to view the Website that explains the entire project!](https://sites.google.com/sdsu.edu/healthdatasynergy/home)
-- <b> Sentiment Analysis on Covid Tweets </b>
-  - [Research & Analysis Report + Jupyter notebook](https://github.com/rxdhikx/Sentiment-Analysis-through-Tweets-during-Covid)
-- <b> Tableau - Airbnb Price Analysis </b>
-  - [Tableau Public Dashboard](https://public.tableau.com/app/profile/radhika.ravindra/viz/AirBNBPriceAnalysis_17117408930760/Dashboard1)
-
-<h2>💻 Software Dev Projects:</h2>
-
-- <b> Video-Based Dynamic Human Authentication System</b>
-  - [Full Stack Code](https://github.com/rxdhikx/Video-Based-Dynamic-Human-Authentication-System)
-- <b> Library Management System</b>
-  - [A Database and Tkinter-based Project](https://github.com/rxdhikx/Library-Management-System)
-- <b> Website Landing Page</b>
-  - [Landing Page using HTML, CSS and Bootstrap](https://github.com/rxdhikx/Website-Landing-Page)
-
 
 <h2>📺 Ongoing Projects: </h2>
 
@@ -70,6 +52,27 @@
  - Construction of a robust discriminator to detect hallucinations in LLM's generated response, by reviewing the performance of different PLM's and training it, to minimize the cross-entropy loss function. <br>
  - Utilization of transformers, pytorch and accelerate using 72b training models like Llama2 and MoMo - which is #3 on the open LLM leaderboard. (as of 02/20/2024) <br>
  - Analysis on different types of hallucinations with LLM-assessment metrics, machine, human and composite metrics. <br>
+
+
+
+<h2>👨‍💻 Data Projects:</h2>
+
+- <b> Data Analysis on 3 Disease Interconnections - Heart, Diabetes and Cancer </b>
+  - [Click Here to view the Website that explains the entire project!](https://sites.google.com/sdsu.edu/healthdatasynergy/home)
+- <b> Sentiment Analysis on Covid Tweets </b>
+  - [Research & Analysis Report + Jupyter notebook](https://github.com/rxdhikx/Sentiment-Analysis-through-Tweets-during-Covid)
+- <b> Tableau - Airbnb Price Analysis </b>
+  - [Tableau Public Dashboard](https://public.tableau.com/app/profile/radhika.ravindra/viz/AirBNBPriceAnalysis_17117408930760/Dashboard1)
+
+<h2>💻 Software Dev Projects:</h2>
+
+- <b> Video-Based Dynamic Human Authentication System</b>
+  - [Full Stack Code](https://github.com/rxdhikx/Video-Based-Dynamic-Human-Authentication-System)
+- <b> Library Management System</b>
+  - [A Database and Tkinter-based Project](https://github.com/rxdhikx/Library-Management-System)
+- <b> Website Landing Page</b>
+  - [Landing Page using HTML, CSS and Bootstrap](https://github.com/rxdhikx/Website-Landing-Page)
+
 
 
 <h2> About Me!</h2>
