@@ -14,7 +14,7 @@
 -->
 
 
-<h3> <img src ="https://icons8.com/icon/Udrc3LA8OPbn/location"> 🇺🇸 San Diego, California </h3>
+<h3> 🇺🇸 San Diego, California </h3>
 
 <div align="center"> 
   <a href="mailto:rravindra0463@sdsu.edu">
