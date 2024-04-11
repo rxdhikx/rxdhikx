@@ -8,6 +8,7 @@
 </h3>
 <!--
 <h1>Howdy, This is Radhika! <br/><a href="https://github.com/rxdhikx"> Software </a><a href="https://www.linkedin.com/in/radhika-ravindra/"> and Data Enthusiast</a>
+<h3> <img src ="https://icons8.com/icon/Udrc3LA8OPbn/location"> San Diego, California </h3>
 -->
 
 <h2>👨‍💻 Data Projects:</h2>
