@@ -13,9 +13,6 @@
 <h3> <img src ="https://icons8.com/icon/Udrc3LA8OPbn/location"> San Diego, California </h3>
 -->
 
-
-<h3> 🇺🇸 San Diego, California </h3>
-
 <div align="center"> 
   <a href="mailto:rravindra0463@sdsu.edu">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -88,8 +85,10 @@ Some of the courses I have undertaken are -
 <h3> 🤳 Connect with me on <a href="https://www.linkedin.com/in/radhika-ravindra"> LinkedIn! </a> </h3>
 <h3>💬 Have any questions? Book an appointment <a href ="https://topmate.io/radhika_ravindra">Here!</a></h3>
 
+<h4> 🇺🇸 San Diego, California </h4>
+
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
