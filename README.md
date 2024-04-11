@@ -45,7 +45,7 @@
 
 <h2>📺 Ongoing Projects: </h2>
 
-<b>Pixel to Plate: Recipe Generation Using Image Detection </b> <br>
+<b>Pixel to Plate: Deep Learning based Recipe Generation Using Image Detection </b> <br>
 [Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project)
 
 <h4> Tech: Machine Learning, Deep Learning, Neural Networks, Computer Vision, App Development </h4>
