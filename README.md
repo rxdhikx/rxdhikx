@@ -47,6 +47,16 @@
     <img src="https://skillicons.dev/icons?i= aws,gcp,vscode,github,linux,git,javascript,firebase,mongodb,ps,ai" /><br>
 </div>
 <hr/>
+
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+
 <div align="center">
   <h2>My Contributions! </h2>
   <br>
