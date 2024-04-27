@@ -23,9 +23,21 @@
   </a>
 </div>
 
+<h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
+<br/>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,r,kafka,html,css,bootstrap,c,java,php" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,vscode,github,linux,git,javascript,firebase,mongodb,ps,ai" /><br>
+    </a>
+</p>
+<hr/>
+
 <h2>📺  Latest on Machine Learning: </h2>
 
-<b> <h3>Pixel to Plate: Deep Learning based Recipe Generation Using Image Detection </h3></b> <br>
+<b> <h3>Pixel to Plate: Deep Learning based Recipe Generation Using Image Detection </h3></b> 
+
 [Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project)
 
 <h4> Tech: Machine Learning, Deep Learning, Neural Networks, Computer Vision, App Development </h4>
@@ -41,7 +53,8 @@
 
  <h2>🔭 Latest on Research (LLM Project): </h2>
 
-<b>Hallucination Detection in Large Language Models</b> <br>
+<b> <h3> Hallucination Detection in Large Language Models</b> </h3>
+
 [Click Here to follow the progress!](https://github.com/rxdhikx/Large-Language-Model)
 
 <h4> Tech: LLMs, Transformers, Pytorch, NLP, Remote Server, Virtual Environment, Git </h4>
@@ -54,16 +67,6 @@
 
 <hr/>
 
-<h2 align="center">⚒️ Languages | Frameworks | Tools ⚒️</h2>
-<br/>
-
-<p align="center">
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,r,kafka,html,css,bootstrap,c,java,php" />
-    <img src="https://skillicons.dev/icons?i=aws,gcp,vscode,github,linux,git,javascript,firebase,mongodb,ps,ai" /><br>
-    </a>
-</p>
-<hr/>
 
 <h2>👨‍💻 Data Projects:</h2>
 
@@ -88,26 +91,9 @@
   <h2>My Contributions! </h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rxdhikx/rxdhikx/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+
 </div>
-
 <hr/>
-<br/>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-rxdhikx.vercel.app/?user=rxdhikx&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-rxdhikx.vercel.app/api?username=rxdhikx&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-rxdhikx.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-<hr/>
-
 
 <h2> About Me!</h2>
 🌱 I’m currently pursuing my Master's in Big Data Analytics at San Diego State University, and expect to graduate in May 2025. I love beaches and dancing. <br>
