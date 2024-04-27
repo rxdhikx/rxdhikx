@@ -40,6 +40,23 @@
 - Implement a deep learning model to recommend recipes based on user preferences and available ingredients.
 - Develop a web application that provides an interactive and visually appealing recipe recommendation system.
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i= python, mysql,r,kafka, html,css,bootstrap,c,java,php" />
+    <img src="https://skillicons.dev/icons?i= aws,gcp,vscode,github,linux,git,javascript,firebase,mongodb,ps,ai" /><br>
+</div>
+<div align="center">
+  <h2>My Contributions! </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rxdhikx/rxdhikx/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+<br/>
+<hr/>
 <h2>🔭 Ongoing Research: </h2>
 
 <b>Hallucination Detection in Large Language Models</b> <br>
