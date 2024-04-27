@@ -8,7 +8,6 @@
 <!--
 <h1>Howdy, This is Radhika! <br/><a href="https://github.com/rxdhikx"> Software </a><a href="https://www.linkedin.com/in/radhika-ravindra/"> and Data Enthusiast</a>
 <h3> <img src ="https://icons8.com/icon/Udrc3LA8OPbn/location"> San Diego, California </h3>
-
 <h3> <img src ="https://icons8.com/icon/Udrc3LA8OPbn/location"> San Diego, California </h3>
 -->
 
@@ -24,9 +23,9 @@
   </a>
 </div>
 
-<h2>📺 Ongoing Projects: </h2>
+<h2>📺 Latest work on Machine Learning Project: </h2>
 
-<b>Pixel to Plate: Deep Learning based Recipe Generation Using Image Detection </b> <br>
+<b> <h3>Pixel to Plate: Deep Learning based Recipe Generation Using Image Detection </h3></b> <br>
 [Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project)
 
 <h4> Tech: Machine Learning, Deep Learning, Neural Networks, Computer Vision, App Development </h4>
@@ -39,30 +38,8 @@
 - Implement a deep learning model to recommend recipes based on user preferences and available ingredients.
 - Develop a web application that provides an interactive and visually appealing recipe recommendation system.
  <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 
-<p align="center">
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,r,kafka,html,css,bootstrap,c,java,php" />
-    <img src="https://skillicons.dev/icons?i=aws,gcp,vscode,github,linux,git,javascript,firebase,mongodb,ps,ai" /><br>
-    </a>
-</p>
-<hr/>
-
-
-<div align="center">
-  <h2>My Contributions! </h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rxdhikx/rxdhikx/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-<br/>
-<hr/>
-<h2>🔭 Ongoing Research: </h2>
+ <h2>🔭 Research Work: </h2>
 
 <b>Hallucination Detection in Large Language Models</b> <br>
 [Click Here to follow the progress!](https://github.com/rxdhikx/Large-Language-Model)
@@ -75,7 +52,18 @@
  - Utilization of transformers, pytorch and accelerate using 72b training models like Llama2 and MoMo - which is #3 on the open LLM leaderboard. (as of 02/20/2024) <br>
  - Analysis on different types of hallucinations with LLM-assessment metrics, machine, human and composite metrics. <br>
 
+<hr/>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,mysql,r,kafka,html,css,bootstrap,c,java,php" />
+    <img src="https://skillicons.dev/icons?i=aws,gcp,vscode,github,linux,git,javascript,firebase,mongodb,ps,ai" /><br>
+    </a>
+</p>
+<hr/>
 
 <h2>👨‍💻 Data Projects:</h2>
 
@@ -96,9 +84,21 @@
   - [Landing Page using HTML, CSS and Bootstrap](https://github.com/rxdhikx/Website-Landing-Page)
 
 
+<div align="center">
+  <h2>My Contributions! </h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rxdhikx/rxdhikx/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+<br/>
+<hr/>
+
 
 <h2> About Me!</h2>
-🌱 I’m currently pursuing my Master's in Big Data Analytics at San Diego State University, and expect to graduate in May 2025. <br>
+🌱 I’m currently pursuing my Master's in Big Data Analytics at San Diego State University, and expect to graduate in May 2025. I love beaches and dancing. <br>
 
 Some of the courses I have undertaken are - 
  - Enterprise Database Management (SQL)
@@ -108,9 +108,9 @@ Some of the courses I have undertaken are -
  - Big Data Analytical Platforms (Tableau, arcGIS, AWS, Git, Hadoop, Apache Spark)
 
 <h3> 🤳 Connect with me on <a href="https://www.linkedin.com/in/radhika-ravindra"> LinkedIn! </a> </h3>
-<h3>💬 Have any questions? Book an appointment <a href ="https://topmate.io/radhika_ravindra">Here!</a></h3>
+<h3>💬 Have any questions? I love to talk. Book an appointment with me <a href ="https://topmate.io/radhika_ravindra">Right Here!</a></h3>
 
-<h4> 🇺🇸 San Diego, California </h4>
+<h4> 🇺🇸 California, United States </h4>
 
 <!--
 **This is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
