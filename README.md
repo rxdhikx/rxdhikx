@@ -23,7 +23,7 @@
   </a>
 </div>
 
-<h2>📺 Latest work on Machine Learning Project: </h2>
+<h2>📺  Latest on Machine Learning: </h2>
 
 <b> <h3>Pixel to Plate: Deep Learning based Recipe Generation Using Image Detection </h3></b> <br>
 [Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project)
@@ -39,7 +39,7 @@
 - Develop a web application that provides an interactive and visually appealing recipe recommendation system.
  <hr/>
 
- <h2>🔭 Research Work: </h2>
+ <h2>🔭 Latest on Research (LLM Project): </h2>
 
 <b>Hallucination Detection in Large Language Models</b> <br>
 [Click Here to follow the progress!](https://github.com/rxdhikx/Large-Language-Model)
