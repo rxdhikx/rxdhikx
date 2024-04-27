@@ -39,13 +39,14 @@
 - Utilize OpenCV for image analysis of ingredients and finished dishes.
 - Implement a deep learning model to recommend recipes based on user preferences and available ingredients.
 - Develop a web application that provides an interactive and visually appealing recipe recommendation system.
-
+ <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i= python, mysql,r,kafka, html,css,bootstrap,c,java,php" />
     <img src="https://skillicons.dev/icons?i= aws,gcp,vscode,github,linux,git,javascript,firebase,mongodb,ps,ai" /><br>
 </div>
+<hr/>
 <div align="center">
   <h2>My Contributions! </h2>
   <br>
