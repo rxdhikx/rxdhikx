@@ -52,14 +52,6 @@
 <hr/>
 
 
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
-
-
 <div align="center">
   <h2>My Contributions! </h2>
   <br>
