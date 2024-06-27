@@ -18,7 +18,7 @@
   <a href="https://linkedin.com/in/radhika-ravindra" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank" />
   </a>
-  <a href="https://radhika-ravindra.github.io" target="blank">
+  <a href="https://rxdhikx.github.io/" target="blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
