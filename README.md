@@ -51,6 +51,21 @@
 - Develop a web application that provides an interactive and visually appealing recipe recommendation system.
  <hr/>
 
+<b> <h3>Azure ML: Customer Segmentation for Newly Launched Products </h3></b> 
+
+[Click Here to follow the progress!](https://github.com/rxdhikx/Customer-Segmentation-ML-Model-using-Azure)
+
+<h4> Tech: Unsupervised Machine Learning, K-Means Clustering, One Hot Encoding, Microsoft Azure </h4>
+
+<h4> Project pointers: </h4>
+
+- Collected and preprocessed data for 2627 potential customers using Azure Data Factory and One Hot Encoding.
+- Successfully segmented customers, enhancing targeted outreach strategies and improving market penetration for new products.
+- Built end-to-end K-Means Clustering model in Azure Machine Learning Designer, optimizing feature selection & hyperparameters.
+- Deployed the clustering model as a predictive service on Azure, enabling integration with the existing CRM system.
+ <hr/>
+
+
  <h2>🔭 Latest on Research (LLM Project): </h2>
 
 <b> <h3> Hallucination Detection in Large Language Models</b> </h3>
