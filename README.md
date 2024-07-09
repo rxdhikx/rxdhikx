@@ -10,6 +10,9 @@
 <h3> <img src ="https://icons8.com/icon/Udrc3LA8OPbn/location"> San Diego, California </h3>
 <h3> <img src ="https://icons8.com/icon/Udrc3LA8OPbn/location"> San Diego, California </h3>
 -->
+<h4 align = "center">
+  To directly view my Portfolio Website, <a href="https://rxdhikx.github.io/"> Click Here!</a>
+</h4>
 
 <div align="center"> 
   <a href="mailto:rravindra0463@sdsu.edu">
