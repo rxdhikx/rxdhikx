@@ -69,7 +69,22 @@
  <hr/>
 
 
- <h2>🔭 Latest on Research (LLM Project): </h2>
+ <h2>🔭 Latest on Research Assistantship: </h2>
+
+ <b> <h3> AI Risk Classification from Financial documents</b> </h3>
+
+[Click Here to follow the progress!]()
+
+<h4> Tech: NLP, BERT, Pandas, Numpy, Python </h4>
+
+<h3> Objectives: </h3>
+
+ - Identifying risk factors caused by AI in corporate financial reports published by the US Security Exchange Commission Disclosures of AI technology
+ - AI risk classification using NLP and fine-tuning of the BERT Model
+ - Classification of more than 4Gb samples of post-stage one parsed dataset (semi-structured) <br>
+
+<hr/>
+
 
 <b> <h3> Hallucination Detection in Large Language Models</b> </h3>
 
