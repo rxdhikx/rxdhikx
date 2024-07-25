@@ -73,7 +73,7 @@
 
  <b> <h3> AI Risk Classification from Financial documents</b> </h3>
 
-[Click Here to follow the progress!]()
+[Click Here to follow the progress!](https://github.com/rxdhikx/AI-Risk_Classification-From-Financial-Documents)
 
 <h4> Tech: NLP, BERT, Pandas, Numpy, Python </h4>
 
