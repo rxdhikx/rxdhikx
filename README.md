@@ -10,9 +10,9 @@
 <h3> <img src ="https://icons8.com/icon/Udrc3LA8OPbn/location"> San Diego, California </h3>
 <h3> <img src ="https://icons8.com/icon/Udrc3LA8OPbn/location"> San Diego, California </h3>
 -->
-<h4 align = "center">
-  To directly view my Portfolio Website, <a href="https://rxdhikx.github.io/"> Click Here!</a>
-</h4>
+<h3 align = "center">
+   Portfolio Website > <a href="https://rxdhikx.github.io/"> Click Here!</a>
+</h3>
 
 <div align="center"> 
   <a href="mailto:rravindra0463@sdsu.edu">
@@ -37,26 +37,36 @@
 </p>
 <hr/>
 
-<h2>📺  Latest on Machine Learning: </h2>
+<h2>🤖  Gen AI Projects: </h2>
 
-<b> <h3>Pixel to Plate: Deep Learning based Recipe Generation Using Image Detection </h3></b> 
+<b> <h3> [Medico Chat-bot: Healthcare Recommendation System](https://github.com/rxdhikx/Team-119) <br> </h3></b>
 
-[Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project)
+<h4> Tech: Python, Hugging Face Transformers, RAG, GPT-4o, LangChain, LLM routing </h4>
 
-<h4> Tech: Machine Learning, Deep Learning, Neural Networks, Computer Vision, App Development </h4>
+ [BDA Hackathon 2024](https://bigdataforsandiego.github.io/) Finalists 
 
-<h4> Project Idea: </h4>
 
-- Scrape recipes and cooking-related content.
-- Apply NLP to understand and categorize recipes.
-- Utilize OpenCV for image analysis of ingredients and finished dishes.
-- Implement a deep learning model to recommend recipes based on user preferences and available ingredients.
-- Develop a web application that provides an interactive and visually appealing recipe recommendation system.
+- Problem: Patients struggle to find the right specialists due to language barriers, limited accessibility, and complex medical jargon.
+- Solution: Developed a multilingual AI system using medically fine-tuned LLMs, RAG, and ranking algorithms to match specialists, simplify medical reports, and enhance decision-making.
+- Impact: Improved specialist accessibility by 81%, enhanced recommendation accuracy with 10,000+ patient records, and delivered jargon-free, actionable insights.
+
  <hr/>
 
-<b> <h3>Azure ML: Customer Segmentation for Newly Launched Products </h3></b> 
 
-[Click Here to follow the progress!](https://github.com/rxdhikx/Customer-Segmentation-ML-Model-using-Azure)
+<h2>📺 Machine Learning Projects: </h2>
+
+<b> <h3> [Prediction of Mental Health risks in Children due to Internet overuse](https://github.com/rxdhikx/Problematic-Internet-Use-Prediction-using-Machine-Learning)</h3></b> 
+
+<h4> Tech: Python, XGBoost, LightGBM, CatBoost, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, QWK (Quadratic Weighted Kappa), Time-Series Data Analysis </h4>
+
+- Developed XGBoost, LightGBM, and CatBoost models, achieving 85% accuracy in predicting internet overuse.
+- Engineered features from time-series data, reducing training time by 30%.
+- Identified key patterns linking physical activity to screen time using regression techniques.
+- Improved model interpretability with QWK analysis, boosting stakeholder confidence by 95%.
+
+<hr/>
+
+<b> <h3>[Azure ML: Customer Segmentation for Newly Launched Products](https://github.com/rxdhikx/Customer-Segmentation-ML-Model-using-Azure) </h3></b> 
 
 <h4> Tech: Unsupervised Machine Learning, K-Means Clustering, One Hot Encoding, Microsoft Azure </h4>
 
@@ -68,10 +78,23 @@
 - Deployed the clustering model as a predictive service on Azure, enabling integration with the existing CRM system.
  <hr/>
 
+<b> <h3>[Pixel to Plate: Deep Learning based Recipe Generation Using Image Detection](https://github.com/saitejasri1/Shared-ML-project) </h3></b> 
 
- <h2>🔭 Latest on Research Assistantship: </h2>
+<!--[Click Here to follow the progress!](https://github.com/saitejasri1/Shared-ML-project)-->
 
- <b> <h3> AI Risk Classification from Financial documents</b> </h3>
+<h4> Tech: Machine Learning, Deep Learning, Neural Networks, Computer Vision, App Development </h4>
+
+
+- Scraped recipes and cooking-related content.
+- Applied NLP to understand and categorize recipes.
+- Utilized OpenCV for image analysis of ingredients and finished dishes.
+- Implemented a deep learning model to recommend recipes based on user preferences and available ingredients.
+- Developed a web application that provides an interactive and visually appealing recipe recommendation system.
+ <hr/>
+
+ <h2>🔭 Research Assistantship work |  SDSU Research Labs: </h2>
+
+ <b> <h3> AI Risk Factor Classification from Financial documents</b> </h3>
 
 [Click Here to follow the progress!](https://github.com/rxdhikx/AI-Risk_Classification-From-Financial-Documents)
 
