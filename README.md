@@ -39,6 +39,17 @@
 
 <h2>🤖  Gen AI Projects: </h2>
 
+<b> <h3> [AI Financial Advisor: Real-time Recommendations for your Portfolio](https://github.com/rxdhikx/AI-Financial-Portfolio-Advisor) <br> </h3></b>
+
+<h4> Tech: Python, AWS (Lambda, S3, SageMaker, API Gateway, EventBridge, IAM), XGBoost, Streamlit, yfinance, Pandas </h4>
+
+ [LPL Financial Hackathon 2025](https://www.lplfinancial.com) Participant 
+
+- Problem: Investors struggle to make timely and data-driven portfolio rebalancing decisions due to the complexity of real-time market data analysis and lack of personalized recommendations.
+- Solution: Built an AI-driven system using AWS serverless architecture and machine learning (XGBoost) to fetch real-time market data, analyze client portfolios, and provide actionable rebalancing recommendations (e.g., buy/sell amounts) through an interactive dashboard.
+- Impact: Automated real-time market data updates, improved portfolio rebalancing accuracy by 75%, and delivered personalized investment insights to 1,000+ synthetic client portfolios.
+ <hr/>
+
 <b> <h3> [Medico Chat-bot: Healthcare Recommendation System](https://github.com/rxdhikx/Team-119) <br> </h3></b>
 
 <h4> Tech: Python, Hugging Face Transformers, RAG, GPT-4o, LangChain, LLM routing </h4>
