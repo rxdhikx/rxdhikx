@@ -37,6 +37,30 @@
 </p>
 <hr/>
 
+<h5 align="center">Check out my projects in: </h5>
+<h4 align="center"> Data Engineering | Gen AI | Machine Learning | Dashboard </h2>
+<br/>
+
+
+<h2>🤖  Data Engineering Projects: </h2>
+
+<b> <h3> [Real-Time Analytics with Snowflake: Optimizing Sales with Weather Insights](https://github.com/rxdhikx/snowflake-data-engineering-project) <br> </h3></b>
+
+<h4> Tech: Python, Snowflake (Snowpark, Snowflake CLI, Python Connector), Pandas, Jupyter Notebook </h4>
+
+
+
+- Problem: Businesses face **slow data ingestion, complex ETL, and high costs** when merging sales and weather data for real-time decisions.  
+
+- Solution: Built a **real-time analytics pipeline** with **Snowflake and Snowpark** to ingest, transform, and analyze data from Excel and external sources. The pipeline **automates daily sales and weather data ingestion**, ensuring fast and efficient processing.  
+
+- Impact: Delivered **real-time insights** on weather-driven sales trends. Improved **data processing speed** and provided a **scalable, cost-effective** analytics solution for better inventory and pricing decisions. 
+ <hr/>
+
+
+
+
+
 <h2>🤖  Gen AI Projects: </h2>
 
 <b> <h3> [AI Financial Advisor: Real-time Recommendations for your Portfolio](https://github.com/rxdhikx/AI-Financial-Portfolio-Advisor) <br> </h3></b>
